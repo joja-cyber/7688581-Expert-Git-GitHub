@@ -11,9 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-un navigateur web
-un éditeur de texte
-git bash desktop
+un prérequis from navigator
 
 ```
 
